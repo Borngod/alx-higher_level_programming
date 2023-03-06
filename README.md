@@ -1,3 +1,7 @@
 <h1>alx-higher_level_programming</h1>
 ______________________________________________________________________________________________________________________________________________________
-[copy-as-markdown/README.md at master · yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown/blob/master/README.md)
+_For this project, students are expected to look at these concepts:_
+
+- [Python programming](https://alx-intranet.hbtn.io/concepts/63)
+- [Python programming](https://alx-intranet.hbtn.io/concepts/550)
+- [Python programming](https://alx-intranet.hbtn.io/concepts/551)
