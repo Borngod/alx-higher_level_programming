@@ -1,4 +1,8 @@
-0x04. Python - More Data Structures: Set, Dictionary
+<p align ="center"> <img src ="https://user-images.githubusercontent.com/117746948/225421571-b0a29a50-10d8-4214-9a3b-03c2fc542745.jpg" height ="200" width ="200" ></p>
+<h2 align ="center">Project completed by Bernard Appiah</h2> 
+
+
+<h2> 0x04. Python - More Data Structures: Set, Dictionary </h2>
 
 ```
 By Guillaume\
